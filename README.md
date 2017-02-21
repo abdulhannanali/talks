@@ -10,9 +10,9 @@ else.
 
 ## Upcoming Talks
 
-- Building UIs with React
-  Explains the fundamental concepts and the design principles behind
-  [reactjs](https://reactjs.org) that makes it unique. This technical talk will be 
-  given at [Facebook Developer Meetup, Lahore](https://www.facebook.com/groups/DevCLahore/).
+### Building UIs with React
+Explains the fundamental concepts and the design principles behind
+[reactjs](https://reactjs.org) that makes it unique. This technical talk will be 
+given at [Facebook Developer Meetup, Lahore](https://www.facebook.com/groups/DevCLahore/).
   
-  Access the [further resources](DevCLahore/react/resources.md) for learning React
+Access the [further resources](DevCLahore/react/resources.md) for learning React
