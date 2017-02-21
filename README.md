@@ -6,4 +6,13 @@ links to after or during the talk.
 
 This repository also serves as a unified place to access information about the previous 
 talks I have given and the offline talks I am going to give at Conferences, Meetups and anywhere
-else. :heart:
+else.
+
+## Upcoming Talks
+
+- Building UIs with React
+  Explains the fundamental concepts and the design principles behind
+  [reactjs](https://reactjs.org) that makes it unique. This technical talk will be 
+  given at [Facebook Developer Meetup, Lahore](https://www.facebook.com/groups/DevCLahore/).
+  
+  Access the [further resources](DevCLahore/react/resources.md) for learning React
