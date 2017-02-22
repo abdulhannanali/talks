@@ -10,9 +10,11 @@ else.
 
 ## Upcoming Talks
 
-### Building UIs with React
-Explains the fundamental concepts and the design principles behind
-[reactjs](https://reactjs.org) that makes it unique. This technical talk will be 
-given at [Facebook Developer Meetup, Lahore](https://www.facebook.com/groups/DevCLahore/).
-  
-Access the [further resources](DevCLahore/react/resources.md) for learning React
+### [Building UIs with React](./DevCLahore/react/index.md)
+
+Explains the fundamental concepts and the fundamental concepts behind
+[ReactJS](https://reactjs.org) such as Unidirectional Data Flow, Atomicity,
+Declarative Programming for the UI. These design principles make React a lot faster 
+than other applications.
+
+[Talk Details](./DevCLahore/react/index.md) [Further resources](./DevCLahore/react/resources.md)
