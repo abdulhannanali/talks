@@ -7,8 +7,11 @@ During this talk, I will be giving an introduction about React, why it was creat
 some of the major design principles behind it. Checkout this page for more information
 about React in the future.
 
-### Slides
+### Further resources
+Curated list of resources, for learning React and building Modern Web UIs using 
+it can be found on [this](./resources.md) page.
 
+### Slides
 Here are the slides for my talk
 
 <div class="react-slides">
