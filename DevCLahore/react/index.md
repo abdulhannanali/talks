@@ -12,7 +12,7 @@ about React in the future.
 Here are the slides for my talk
 
 <div class="react-slides">
-<iframe src="https://docs.google.com/presentation/d/1j9wbB6GW8OjvrKN8eWXL9cwmhz61L6J3XbAMaPvNYUE/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1j9wbB6GW8OjvrKN8eWXL9cwmhz61L6J3XbAMaPvNYUE/embed?start=false&loop=true&delayms=3000" frameborder="0" width="100%" height="480px"></iframe>
 </div>
 
 ### Code
